@@ -1,0 +1,23 @@
+BEGIN LOOPS:  Tue Apr  8 20:19:15 2025
+2020 | 1 | n_qtr =      499 | n_tot =      499 | n_err =      0 | Tue Apr  8 20:25:46 2025
+2020 | 2 | n_qtr =      499 | n_tot =      998 | n_err =      0 | Tue Apr  8 20:28:12 2025
+2020 | 3 | n_qtr =      497 | n_tot =    1,495 | n_err =      0 | Tue Apr  8 20:30:39 2025
+2020 | 4 | n_qtr =      495 | n_tot =    1,990 | n_err =      0 | Tue Apr  8 20:33:36 2025
+2021 | 1 | n_qtr =      502 | n_tot =    2,492 | n_err =      0 | Tue Apr  8 20:37:38 2025
+2021 | 2 | n_qtr =      498 | n_tot =    2,990 | n_err =      0 | Tue Apr  8 20:39:29 2025
+2021 | 3 | n_qtr =      500 | n_tot =    3,490 | n_err =      0 | Tue Apr  8 20:41:42 2025
+2021 | 4 | n_qtr =      498 | n_tot =    3,988 | n_err =      0 | Tue Apr  8 20:43:29 2025
+2022 | 1 | n_qtr =      506 | n_tot =    4,494 | n_err =      0 | Tue Apr  8 20:48:03 2025
+2022 | 2 | n_qtr =      496 | n_tot =    4,990 | n_err =      0 | Tue Apr  8 20:49:52 2025
+2022 | 3 | n_qtr =      495 | n_tot =    5,485 | n_err =      0 | Tue Apr  8 20:52:26 2025
+2022 | 4 | n_qtr =      499 | n_tot =    5,984 | n_err =      0 | Tue Apr  8 20:54:31 2025
+2023 | 1 | n_qtr =      504 | n_tot =    6,488 | n_err =      0 | Tue Apr  8 20:59:31 2025
+2023 | 2 | n_qtr =      498 | n_tot =    6,986 | n_err =      0 | Tue Apr  8 21:02:47 2025
+2023 | 3 | n_qtr =      497 | n_tot =    7,483 | n_err =      0 | Tue Apr  8 21:06:25 2025
+2023 | 4 | n_qtr =      498 | n_tot =    7,981 | n_err =      0 | Tue Apr  8 21:09:42 2025
+2024 | 1 | n_qtr =      504 | n_tot =    8,485 | n_err =      0 | Tue Apr  8 21:14:12 2025
+2024 | 2 | n_qtr =      503 | n_tot =    8,988 | n_err =      0 | Tue Apr  8 21:17:17 2025
+2024 | 3 | n_qtr =      492 | n_tot =    9,480 | n_err =      0 | Tue Apr  8 21:20:27 2025
+2024 | 4 | n_qtr =      504 | n_tot =    9,984 | n_err =      0 | Tue Apr  8 21:23:23 2025
+
+9,984 total forms downloaded.
